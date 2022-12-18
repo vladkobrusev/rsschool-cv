@@ -1,0 +1,116 @@
+body{
+    padding: 0;
+    margin: 0;
+    font: 400 14px/1 'PT Sans', sans-serif;
+    font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6{
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+ul, li{
+    
+    margin: 0;
+    padding: 0;
+}
+
+.photo{
+    width: 220px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.main-info{
+    display: flex;
+}
+.name{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: white;
+}
+.name:hover{
+    color:rgb(140, 218, 240)
+}
+.about-me{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+    color: white;
+}
+ul li{
+    margin-bottom: 10px;
+}
+.block-title{
+    margin-top: 80px;
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+    }
+.block-title:hover{
+    color:rgb(140, 218, 240)
+}
+
+.block-info{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 120px;
+    width: 400px;
+}
+.all-info{
+    display: flex;
+}
+.right-blocks{
+    margin-left: 100px;
+}
+.header{
+    background-color: black;
+    padding-bottom: 50px;
+}
+.my-contacts{
+    margin-left: 300px;
+    margin-top: 150px;
+    font-weight: 800;
+}
+.logo-inst{
+    width: 30px;
+    margin-top: 10px;
+}
+.social-media{
+    display: flex;
+}
+.contacts-name{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.contacts{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.rs-school-logo{
+    width: 200px;
+    margin-left: 50px;
+}
+.footer{
+    background-color: lightslategray;
+    display: flex;
+}
+.year{
+    color: white;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+.link-rs{
+    text-decoration: none;
+    color: white;
+}
+.link-rs:hover{
+    color:rgb(140, 218, 240)
+}
+.link-git{
+    text-decoration: none;
+    color: white;
+}
+.link-git:hover{
+    color:rgb(140, 218, 240)
+}
